@@ -8,6 +8,7 @@ Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTM
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulislam975317&label=Profile%20views&color=0e75b6&style=flat" alt="saifulislam975317" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saiful-islam-5040a8211/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100004899585337)  
 <p align="left">
 </p>
 
@@ -19,5 +20,5 @@ Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTM
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saiful-islam-5040a8211/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100004899585337)  
+
 
