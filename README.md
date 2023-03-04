@@ -1,8 +1,7 @@
 ### Hi there! I'm Saiful. I'm a Web Developer 👋,  
 ![](https://camo.githubusercontent.com/6323078aa90e2a07d459a6c4e644be8e02c01631aa47943ceb46d18249b75b44/68747470733a2f2f692e6962622e636f2f5358586a704c342f6865616465722e706e67)
 
-As a web developer, I am an experienced professional with a proven track record of designing and developing high-quality websites. With expertise in programming languages such as React, Javascript, Node js, Express js, Mongodb, JWT,Rest Api, Es6, HTML5, CSS, Bootstrap, Tailwind CSS. I am committed to delivering innovative and engaging web solutions to meet the specific needs and goals of clients. I have a strong eye for detail and a passion for creating visually appealing and user-friendly websites. With excellent communication and problem-solving skills, I am able to work collaboratively with clients to understand their vision and provide tailored solutions that exceed their expectations.
-
+I am a MERN-Stack WEB Developer. I am working with React, Node.js, and MongoDB. I also have experience in developing static websites using HTML5, CSS3, and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I am dedicated to delivering high-quality projects. I am always looking to learn and improve my skills, and I am excited to be a part of the constantly evolving world of web development. In my free time, I love to explore new technologies and always focus on learning new technology. 
 Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTML5 / CSS/Bootstrap/Tailwind CSS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulislam975317&label=Profile%20views&color=0e75b6&style=flat" alt="saifulislam975317" /> </p>
