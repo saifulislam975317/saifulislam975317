@@ -5,7 +5,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js, and MongoDB. 
 
 Skills:  / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTML5 / CSS/Bootstrap/Tailwind CSS
 
-- 🔭 I’m currently working on this page. 
+- Find out more about me & feel free to connect with me here: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saifulislam975317/saifulislam975317)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saiful-islam-5040a8211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004899585337)  
