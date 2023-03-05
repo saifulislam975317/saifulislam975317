@@ -20,21 +20,17 @@ Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTM
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifulislam975317&show_icons=true&locale=en&layout=compact" alt="saifulislam975317" /></p>
 
-
-#footer
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  
 ### 💻 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next%20js-4e5563?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -48,11 +44,9 @@ Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTM
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2b?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-fa0f00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -71,29 +65,7 @@ Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTM
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifulislam975317&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifulislam975317&theme=nord_dark)
 
-##im
-## 💻 Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
 
