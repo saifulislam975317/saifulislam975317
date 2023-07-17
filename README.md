@@ -52,12 +52,12 @@ Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTM
 ![Adobe](https://img.shields.io/badge/Adobe-fa0f00?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-## 📈 Stats
+//## 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saifulislam975317&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulislam975317&hide_border=true&theme=radical" />
-</p>
+*/<p align="center">
+  //<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saifulislam975317&show_icons=true&hide_border=true&theme=radical" />
+  //<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulislam975317&hide_border=true&theme=radical" />
+</p>/*
 
 
  <!--   Top Languages Using -->
