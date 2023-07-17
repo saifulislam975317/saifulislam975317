@@ -1,4 +1,4 @@
-### Hi there! I'm Saiful. I'm a Web Developer 👋,  
+### Hi there! I'm Saiful. 
 
 
 I am a MERN-Stack WEB Developer. I work with React, Node.js, Express.js, and MongoDB. I also have experience in JavaScript(Es6), HTML5, CSS3, Tailwind CSS, Bootstrap, and so on. I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I am dedicated to delivering high-quality projects. I am always looking to learn and improve my skills, and I am excited to be a part of the constantly evolving world of web development. In my free time, I love to explore new technologies and always focus on learning new technology. 
