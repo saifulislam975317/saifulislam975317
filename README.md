@@ -4,7 +4,7 @@
 I am a MERN-Stack WEB Developer. I work with React, Node.js, Express.js, and MongoDB. I also have experience in JavaScript(Es6), HTML5, CSS3, Tailwind CSS, Bootstrap, and so on. I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I am dedicated to delivering high-quality projects. I am always looking to learn and improve my skills, and I am excited to be a part of the constantly evolving world of web development. In my free time, I love to explore new technologies and always focus on learning new technology. 
 
 My Portfolio: <a href="https://saiful-islam-raju.netlify.app/"  target="_blank">Visit my portfolio</a>
-My Resume: <a href="https://drive.google.com/file/d/17ywQy0-0Se4enzTjnCLf0UVxl_E8oM2C/view?usp=sharing" target="_blank">Go to my Resume</a>
+My Resume: <a href="https://drive.google.com/file/d/1-QSrAPpax23Aje_eKjV3ArYacP9cdFD3/view?usp=sharing" target="_blank">Go to my Resume</a>
 
 Skills:   / REACT / JavaScript /Node Js/Express Js/MongoDb/Rest API/Es6/JWT/ HTML5 / CSS/Bootstrap/Tailwind CSS
 
